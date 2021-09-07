@@ -1,4 +1,9 @@
 <h4 align="center">
-  <img alt="common readme" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/440px-Nginx_logo.svg.png">
+  <img alt="NGINX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/440px-Nginx_logo.svg.png">
 </h4>
-В данном репозитории находится дефолтный конфигурационный файл nginx
+<h4 align="center">
+***В данном репозитории находится дефолтный конфигурационный файл nginx***
+</h4>
+Основные функции
+- Nginx позиционируется производителем как простой, быстрый и надёжный сервер, не перегруженный функциями.
+- Применение nginx целесообразно прежде всего для статических веб-сайтов и как обратного прокси-сервера перед динамическими сайтами.
