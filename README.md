@@ -1,7 +1,8 @@
 <h4 align="center">
   <img alt="NGINX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/440px-Nginx_logo.svg.png">
 </h4>
-< engine x — по-русски произносится как энджи́нкс или э́нжин-и́кс
+> engine x — по-русски произносится как энджи́нкс или э́нжин-и́кс
+
 ## В данном репозитории находится дефолтный конфигурационный файл nginx ###
 
 # Основные функции:
