@@ -2,9 +2,7 @@
 
 ## В данном репозитории находится дефолтный конфигурационный файл nginx ##
 
-<h4 align="center">
-  <img alt="NGINX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/440px-Nginx_logo.svg.png">
-</h4>
+![NGINX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/440px-Nginx_logo.svg.png)
 
 >engine x — по-русски произносится как энджи́нкс или э́нжин-и́кс
 
@@ -58,3 +56,6 @@ if (key->len > 2) {
 | *.example.com	     | skip=2            |
 | .example.com       | skip=1            |
 | www.example.*	     | skip=0            |
+
+
+[nginx.org]:https://nginx.org/ru/
