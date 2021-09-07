@@ -58,4 +58,4 @@ if (key->len > 2) {
 | www.example.*	     | skip=0            |
 
 
-[nginx.org]:https://nginx.org/ru
+Посетить сайт Nginx [nginx.org](https://nginx.org/ru)
